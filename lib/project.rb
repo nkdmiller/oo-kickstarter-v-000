@@ -8,3 +8,4 @@ class Project
     @backers << project
     backer.back_project(self)
   end
+end
